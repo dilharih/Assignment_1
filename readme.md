@@ -42,7 +42,6 @@ Example schedule for daily execution at 9 AM:
 
     0 9 * * * /home/ubuntu/shell-assignment/monitor.sh >> /home/ubuntu/shell-assignment/monitor_logs.txt 2>&1
 
-Replace the paths if your project directory differs.
 
 ## Monitoring Details
 - CPU: Processor activity using top
